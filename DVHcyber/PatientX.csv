@@ -1,0 +1,2220 @@
+﻿txtReportTitle,lblPlanName2,txtPlanName2,lblPath18,txtPathName12,lblPatientName,txtPatientName,lblMedicalID,txtMedicalID,lblPlanOverview,txtPathName15,lblPath10,txtSectionPatientDetails,txtSectionPatientDetails2,lblPath16,txtAuthorizationTitle,lblPath24,txtAuthorizationTitle2,lblPath14,txtSectionPatientDetails3,lblPath15,txtPlanOverviewTitle,txtTreatmentParametersTitle,txtPrescriptionDetails,txtDensityModel,txtVOITitle2,txtVOITitle3,lblPlanOverview4,lblInterruptions,lblPath17,txtPathName7,lblPath25,txtPathName18,lblPath8,txtPathName2,lblPath9,txtPathName3,lblPlanOverview2,lblPlanName,txtPlanName,lblPlanName7,txtPathName17,lblPlanStatus,txtPlanStatus,lblPath23,txtPathName14,lblPath26,txtPathName16,lblPath21,txtPathName11,lblPath27,txtDeliveredDose,lblPath22,txtPathName13,lblPath19,txtPathName8,lblPlanName3,txtPlanName3,lblPath20,txtPathName10,lblPlanName5,txtPlanName5,lblNumberOfFractions,txtNumberOfFractions,lblPlanName6,txtPlanName6,lblNumberOfDeliveredFractions,txtNumberOfDeliveredFractions,lblPlanName4,txtPlanName4,lblTrackingMethod,txtTrackingMethod,lblPlanName8,txtPlanName7,lblTrackingMethod2,txtTrackingMethod2,lblPlanName9,txtPlanName8,lblTrackingMethod3,txtTrackingMethod3,lblPlanSpecialists,lblRadiationOncologist,txtRadiationOncologist,lblPlanStatus8,txtPlanStatus8,lblSurgeon,txtPlanStatus7,lblPlanStatus9,txtPlanStatus9,Textbox2,Textbox5,Textbox7,Textbox19,Textbox51,Textbox52,lblPlanOverview5,lblInterruptions2,LabelChapterAuthorization2,LabelPlanDetails,lblPlanName26,txtPlanName21,LabelLastModifiedBy,ValueLastModifiedBy,lblPlanName28,txtPlanName28,LabelLastModifiedBy2,ValueLastModifiedBy2,LabelMultiPlanVersion,ValueMultiPlanVersion,LabelMultiPlanLastModified,ValueMultiPlanLastModified,LabelPlanDetails3,lblPlanName22,txtPlanName22,lblPlanName25,txtPlanName25,lblPlanName29,txtPlanName29,lblTrackingMethod12,txtTrackingMethod10,lblPlanName23,txtPlanName23,lblTrackingMethod14,txtTrackingMethod11,LabelCollimatorType,ValueCollimatorType,lblTrackingMethod15,txtTrackingMethod16,lblPlanName24,txtPlanName24,lblTrackingMethod16,txtTrackingMethod17,lblTrackingMethod18,txtTrackingMethod15,LabelPlanDetails4,ValueReferenceDose,LabelContourCorrection2,ValueContourCorrection2,LabelReferenceDose,LabelMaximumDose,ValueMaximumDose,LabelContourCorrection,ValueContourCorrection,LabelPrescriptionPlanDose,ValuePrescriptionPlanDose,LabelEstimatedDeliveryTime,ValueEstimatedDeliveryTime,LabelPercentIsodoseLine,ValuePercentIsodoseLine,LabelNumberOfBeams,ValueNumberOfBeams,LabelFractionMUByNumFractions,ValueFractionMUByNumFractions,LabelNumberOfPorts,ValueNumberofSegements,LabelDoseCalculationAlgorithm,ValueDoseCalculationAlgorithm,LabelReferenceDosePoint,ValueReferenceDosePoint,LabelDoseCalculationAlgorithm2,ValueDoseCalculationAlgorithm2,LabelReferenceDosePoint2,ValueReferenceDosePoint2,LabelDoseCalculationAlgorithm5,ValueDoseCalculationAlgorithm3,LabelReferenceDosePoint3,ValueReferenceDosePoint3,LabelDoseCalculationAlgorithm6,ValueDoseCalculationAlgorithm4,LabelDoseCalculationAlgorithm7,ValueDoseCalculationAlgorithm5,LabelDoseCalculationAlgorithm3,LabelDoseCalculationAlgorithm4,LabelPlanDetails7,LabelPlanDetails5,LabelPlanDetails6,LabelVOI3,LabelVOI2,LabelReferenceDosePoint4,LabelPlanDetails8,LabelVOI,LabelVOI4,LabelVoiTable,LabelDVHTable,LabelChapterMakeupPlans2,LabelMakeupPlansSummary2,LableAuthorizationDate,ValueAuthorizationDate,LabelAuthorizedBy,LabelAuthorizedByFirstName,ValueAuthorizedByFirstName,LabelAuthorizedByLastName,ValueAuthorizedByLastName,LabelAuthorizedByMiddleName,ValueAuthorizedByMiddleName,LabelAuthorizedByUserID,ValueAuthorizedByUserID,LabelChapterMakeupPlans,LabelMakeupPlansSummary,ValueAuthorizedByUserID2
+Plan Overview,Plan Name:,F_74n152b_67k,Plan Status:,Non-Deliverable,Patient Name:,Pts Name,Medical ID:,11111111,Contents,"Warning: This report is generated from in-memory data, which is different from the information in the last saved plan.",Chapter 1: Overview,Patient Details,Plan Summary,Chapter 4: Authorization,Details,Chapter 5: DVH,Details,Chapter 2: DICOM,DICOM Series,Chapter 3: Plan,Plan Overview,Treatment Parameters,Prescription Details,Fiducial,Density,VOI,Chapter 1: Overview,Patient Details,Medical ID:,111111,Original Plan:,,Last Name:,LastName,First Name:,FirstName,Plan Summary,Plan Name:,F_74n152b_67k,Plan Type:,Standard,Plan Status:,Non-Deliverable,Last Treatment Date:,,Reference Dose (cGy):,7407.41,Optimization Algorithm:,Sequential,Delivered Dose (cGy):,0,Tracking Method:,Xsight_Spine,Planned MU:,66254.8,Prescribed Plan Dose (cGy):,6000.00,Delivered MU:,0,% Isodose Line:,81,No. of Planned Fractions:,5,Treatment Site:,,No. of Delivered Fractions:,0,Treatment Site ICD:,,Delivered Fractions:,,Additional Sites:,,No. of Fractions Represented:,,Additional Site Codes:,,Fractions Represented:,,Specialists,Radiation Oncologist:,,Referring Physician:,,Surgeon:,,Physicist:,,Physician Name,Physician Signature,Date/Time,Physicist Name,Physicist Signature,Date/Time,Chapter 2: DICOM,DICOM Series,Chapter 3: Plan,Plan Overview,Plan Name:,F_74n152b_67k,Last Modified By:,Veronique Baart,Plan Type:,Standard,Saved Deliverable By:,,Created in Version:,MultiPlan 5.1.3 [51313],Date Plan Saved:,"31 Jul 2015, 4:02:12 PM (hr:min:sec)",Treatment Parameters,CyberKnife System:,C230,Patient Position:,HFS,CyberKnife System Serial No.:,1086-152840912353886208,Tracking Method:,Xsight_Spine,Planned Fractions:,5,"Alignment Center (DICOM, mm):",X: 0.00 Y: 0.00 Z: 0.00,Collimator Type:,Fixed,InTempo Imaging:,No,Anatomy:,body_iris-fixed,"Treatment Center (DICOM, mm):",X: -6.10 Y: 123.94 Z: -731.50,Path Set:,Full_Path,Prescription Details,7407.41,Estimated Delivery Time (min):,54,Reference Dose (cGy):,Maximum Dose (cGy):,7407.41,"Reference Point (DICOM, mm):",X: -43.02 Y: 92.49 Z: -745.50,Prescribed Plan Dose (cGy):,6000.00,"Reference Point (Robot, mm):",X: 35.94 Y: -16.30 Z: 31.46,% Isodose Line:,81.00,Number of Beams:,152,MU per Fraction:,13251.0,Number of Non-zero Beams:,152,Dose Calculation Algorithm:,Ray Tracing,Number of Imaging Beams:,105,Dose Calculation Resolution:,High,Number of Zero-dose Beams:,0,Dose Calculation Technique:,3D,Number of Segments:,0,Optimization Algorithm:,Sequential,Contour Correction:,Yes,Auto Generated Results:,Not Applicable,Dose Calculation Grid,Fiducial,Density,Density Overrides,Density Model: BB_LUNG_15032011,"Note: Density overrides are listed in priority order with the highest priority listed first and the lowest priority listed last. In regions where two VOIs overlap, the higher priority density override has been used.",VOI,DVH: Relative Dose,DVH: Absolute Dose,VOI List,Dx Vx Values,Chapter 4: Authorization,Details,Authorization Date:,#Error,Authorized By:,First Name:,,Last Name:,,Middle Name:,,User ID:,,Chapter 5: DVH,Details,VOI volume unit: mm³
+
+lblTrackingMethod5,series_uid2,lblTrackingMethod9,series_uid6,lblTrackingMethod10,lblTrackingMethod6,series_uid3,series_uid7,lblTrackingMethod7,series_uid4,lblTrackingMethod8,series_uid5,Textbox26,Textbox28,Textbox32,Textbox33,Textbox34,Textbox35,Textbox13,Textbox15,Textbox17,grid_name,x_dicom_grid,y_dicom_grid,z_dicom_grid
+Primary Series:,Yes,Scanner Model:,Brilliance Big Bore,Patient Position:,Modality:,CT,HFS,Scan Date:,"20 Jul 2015, 11:25:13 AM (hr:min:sec)",Number of Slices:,509,Series UID/Description:,Study UID/Description:,1.2.840.113704.1.111.7696.1437384974.7,1.2.840.113704.1.111.7696.1437384313.1,EXPI-C,CT Radiothérapie Thorax,,,,,,,
+Primary Series:,Yes,Scanner Model:,Brilliance Big Bore,Patient Position:,Modality:,CT,HFS,Scan Date:,"20 Jul 2015, 11:25:13 AM (hr:min:sec)",Number of Slices:,509,,,,,,,X,Y,Z,"Origin (DICOM, mm)",-352.00,-237.00,-1014.50
+Primary Series:,Yes,Scanner Model:,Brilliance Big Bore,Patient Position:,Modality:,CT,HFS,Scan Date:,"20 Jul 2015, 11:25:13 AM (hr:min:sec)",Number of Slices:,509,,,,,,,X,Y,Z,Size (Voxel),512,512,509
+Primary Series:,Yes,Scanner Model:,Brilliance Big Bore,Patient Position:,Modality:,CT,HFS,Scan Date:,"20 Jul 2015, 11:25:13 AM (hr:min:sec)",Number of Slices:,509,,,,,,,X,Y,Z,Spacing (mm),1.3672,1.3672,1.0000
+Primary Series:,No,Scanner Model:,Brilliance Big Bore,Patient Position:,Modality:,CT,HFS,Scan Date:,"20 Jul 2015, 11:25:13 AM (hr:min:sec)",Number of Slices:,509,Series UID/Description:,Study UID/Description:,1.2.840.113704.1.111.7696.1437385137.13,1.2.840.113704.1.111.7696.1437384313.1,INSPI,CT Radiothérapie Thorax,,,,,,,
+Primary Series:,No,Scanner Model:,Brilliance Big Bore,Patient Position:,Modality:,CT,HFS,Scan Date:,"20 Jul 2015, 11:25:13 AM (hr:min:sec)",Number of Slices:,509,,,,,,,X,Y,Z,"Origin (DICOM, mm)",-352.00,-237.00,-1014.50
+Primary Series:,No,Scanner Model:,Brilliance Big Bore,Patient Position:,Modality:,CT,HFS,Scan Date:,"20 Jul 2015, 11:25:13 AM (hr:min:sec)",Number of Slices:,509,,,,,,,X,Y,Z,Size (Voxel),512,512,509
+Primary Series:,No,Scanner Model:,Brilliance Big Bore,Patient Position:,Modality:,CT,HFS,Scan Date:,"20 Jul 2015, 11:25:13 AM (hr:min:sec)",Number of Slices:,509,,,,,,,X,Y,Z,Spacing (mm),1.3672,1.3672,1.0000
+Primary Series:,No,Scanner Model:,Brilliance Big Bore,Patient Position:,Modality:,CT,HFS,Scan Date:,"20 Jul 2015, 11:25:13 AM (hr:min:sec)",Number of Slices:,509,Series UID/Description:,Study UID/Description:,1.2.840.113704.1.111.7696.1437385230.19,1.2.840.113704.1.111.7696.1437384313.1,EXPI+C,CT Radiothérapie Thorax,,,,,,,
+Primary Series:,No,Scanner Model:,Brilliance Big Bore,Patient Position:,Modality:,CT,HFS,Scan Date:,"20 Jul 2015, 11:25:13 AM (hr:min:sec)",Number of Slices:,509,,,,,,,X,Y,Z,"Origin (DICOM, mm)",-352.00,-237.00,-1014.50
+Primary Series:,No,Scanner Model:,Brilliance Big Bore,Patient Position:,Modality:,CT,HFS,Scan Date:,"20 Jul 2015, 11:25:13 AM (hr:min:sec)",Number of Slices:,509,,,,,,,X,Y,Z,Size (Voxel),512,512,509
+Primary Series:,No,Scanner Model:,Brilliance Big Bore,Patient Position:,Modality:,CT,HFS,Scan Date:,"20 Jul 2015, 11:25:13 AM (hr:min:sec)",Number of Slices:,509,,,,,,,X,Y,Z,Spacing (mm),1.3672,1.3672,1.0000
+Primary Series:,No,Scanner Model:,GEMINI TF Big Bore,Patient Position:,Modality:,CT,HFS,Scan Date:,"22 Jul 2015, 01:39:47 PM (hr:min:sec)",Number of Slices:,172,Series UID/Description:,Study UID/Description:,1.2.840.113704.1.111.3804.1437565601.8,1.2.250.1.74.20150722115500.29000058881265,Body-Low Dose CT,PET FDG LASER RXT,,,,,,,
+Primary Series:,No,Scanner Model:,GEMINI TF Big Bore,Patient Position:,Modality:,CT,HFS,Scan Date:,"22 Jul 2015, 01:39:47 PM (hr:min:sec)",Number of Slices:,172,,,,,,,X,Y,Z,"Origin (DICOM, mm)",-350.00,-230.00,-843.00
+Primary Series:,No,Scanner Model:,GEMINI TF Big Bore,Patient Position:,Modality:,CT,HFS,Scan Date:,"22 Jul 2015, 01:39:47 PM (hr:min:sec)",Number of Slices:,172,,,,,,,X,Y,Z,Size (Voxel),512,512,172
+Primary Series:,No,Scanner Model:,GEMINI TF Big Bore,Patient Position:,Modality:,CT,HFS,Scan Date:,"22 Jul 2015, 01:39:47 PM (hr:min:sec)",Number of Slices:,172,,,,,,,X,Y,Z,Spacing (mm),1.3672,1.3672,3.0000
+Primary Series:,No,Scanner Model:,GEMINI TF Big Bore,Patient Position:,Modality:,PT,HFS,Scan Date:,"22 Jul 2015, 01:39:47 PM (hr:min:sec)",Number of Slices:,129,Series UID/Description:,Study UID/Description:,1.3.46.670589.28.2.12.21.6047.73.2.3972.0.1437566368,1.2.250.1.74.20150722115500.29000058881265,[WB_CTAC] Body,PET FDG LASER RXT,,,,,,,
+Primary Series:,No,Scanner Model:,GEMINI TF Big Bore,Patient Position:,Modality:,PT,HFS,Scan Date:,"22 Jul 2015, 01:39:47 PM (hr:min:sec)",Number of Slices:,129,,,,,,,X,Y,Z,"Origin (DICOM, mm)",-508.68,-388.68,-842.10
+Primary Series:,No,Scanner Model:,GEMINI TF Big Bore,Patient Position:,Modality:,PT,HFS,Scan Date:,"22 Jul 2015, 01:39:47 PM (hr:min:sec)",Number of Slices:,129,,,,,,,X,Y,Z,Size (Voxel),256,256,129
+Primary Series:,No,Scanner Model:,GEMINI TF Big Bore,Patient Position:,Modality:,PT,HFS,Scan Date:,"22 Jul 2015, 01:39:47 PM (hr:min:sec)",Number of Slices:,129,,,,,,,X,Y,Z,Spacing (mm),4.0000,4.0000,4.0000
+Primary Series:,No,Scanner Model:,GEMINI TF Big Bore,Patient Position:,Modality:,PT,HFS,Scan Date:,"22 Jul 2015, 01:39:47 PM (hr:min:sec)",Number of Slices:,129,Series UID/Description:,Study UID/Description:,1.3.46.670589.28.2.12.48.18639.41017.2.428.0.1437566087,1.2.250.1.74.20150722115500.29000058881265,[WB_NAC] Body,PET FDG LASER RXT,,,,,,,
+Primary Series:,No,Scanner Model:,GEMINI TF Big Bore,Patient Position:,Modality:,PT,HFS,Scan Date:,"22 Jul 2015, 01:39:47 PM (hr:min:sec)",Number of Slices:,129,,,,,,,X,Y,Z,"Origin (DICOM, mm)",-508.68,-388.68,-842.10
+Primary Series:,No,Scanner Model:,GEMINI TF Big Bore,Patient Position:,Modality:,PT,HFS,Scan Date:,"22 Jul 2015, 01:39:47 PM (hr:min:sec)",Number of Slices:,129,,,,,,,X,Y,Z,Size (Voxel),256,256,129
+Primary Series:,No,Scanner Model:,GEMINI TF Big Bore,Patient Position:,Modality:,PT,HFS,Scan Date:,"22 Jul 2015, 01:39:47 PM (hr:min:sec)",Number of Slices:,129,,,,,,,X,Y,Z,Spacing (mm),4.0000,4.0000,4.0000
+
+Textbox3,Textbox6,Textbox8,dose_calc_grid_row_name,dose_calc_grid_x,dose_calc_grid_y,dose_calc_grid_z
+X,Y,Z,"Origin (DICOM, mm)",-264.50,-149.50,-1014.50
+X,Y,Z,Size (voxel),401,257,508
+X,Y,Z,Spacing (mm),1.3672,1.3672,1.0000
+
+LabelFiducialNumber,LabelFiducialCoordinateX,LabelFiducialCoordinateY,LabelFiducialCoordinateZ,Number,X,Y,Z,LabelFiducialCoordinateZ6,LabelFiducialCoordinateZ7
+
+LabelFiducialNumber2,LabelFiducialCoordinateX7,LabelFiducialCoordinateX2,PLAN_procedure_id2,txtElectronDensity,PLAN_ref_pt_x2
+CT Number,Relative Electron Density,Mass Density (g/cc),0,0.000,0.000
+CT Number,Relative Electron Density,Mass Density (g/cc),199,0.000,0.000
+CT Number,Relative Electron Density,Mass Density (g/cc),238,0.282,0.290
+CT Number,Relative Electron Density,Mass Density (g/cc),433,0.461,0.470
+CT Number,Relative Electron Density,Mass Density (g/cc),897,0.926,0.943
+CT Number,Relative Electron Density,Mass Density (g/cc),947,0.960,0.983
+CT Number,Relative Electron Density,Mass Density (g/cc),1000,0.987,1.016
+CT Number,Relative Electron Density,Mass Density (g/cc),1001,1.000,1.000
+CT Number,Relative Electron Density,Mass Density (g/cc),1030,1.049,1.053
+CT Number,Relative Electron Density,Mass Density (g/cc),1095,1.074,1.106
+CT Number,Relative Electron Density,Mass Density (g/cc),1236,1.098,1.145
+CT Number,Relative Electron Density,Mass Density (g/cc),1239,1.104,1.152
+CT Number,Relative Electron Density,Mass Density (g/cc),1478,1.279,1.334
+CT Number,Relative Electron Density,Mass Density (g/cc),1870,1.469,1.559
+CT Number,Relative Electron Density,Mass Density (g/cc),2307,1.694,1.822
+CT Number,Relative Electron Density,Mass Density (g/cc),3975,3.790,2.650
+CT Number,Relative Electron Density,Mass Density (g/cc),4095,3.790,2.650
+
+Textbox1,LabelFiducialCoordinateX4,LabelFiducialCoordinateX5,LabelFiducialCoordinateX6,DENSITY_OVERRIDE_PRIORITY,PLAN_ref_pt_x3,relativeElectronDensity,MASS_DENSITY
+
+LabelVoiCI,LabelVoiCI6,LabelVoiCI7,LabelVoiCI8,LabelVoiHI,LabelVoiMinDose,LabelVoiMeanDose,LabelVoiCoveragePercent,PLAN_ref_pt_x4,MINDOSE,MEANDOSE,MEANDOSE2,CI,nCI,HI,COVERAGE
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,GTV expi,5863.73,6720.09,7366.92,6.61,6.67,1.23,99.21
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,GTV inspi,5362.14,6642.40,7366.92,8.33,8.82,1.23,94.40
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,CTV pet,6110.65,6854.49,7349.94,7.68,7.68,1.23,100.00
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,CTV combi,4806.43,6609.03,7407.41,2.75,3.07,1.23,89.58
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,PTV,3970.37,6542.65,7407.41,1.49,1.70,1.23,87.31
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,Trachea,7.84,210.59,3784.18,n/a,n/a,n/a,n/a
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,Lung L,9.63,99.72,972.19,n/a,n/a,n/a,n/a
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,Lung R,9.89,433.37,7407.41,n/a,n/a,n/a,n/a
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,Oesophagus,9.30,112.62,1088.03,n/a,n/a,n/a,n/a
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,Spinal Canal,8.87,139.96,1683.87,n/a,n/a,n/a,n/a
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,Heart,14.57,158.52,927.85,n/a,n/a,n/a,n/a
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,Great Vessels,9.94,280.30,5221.99,n/a,n/a,n/a,n/a
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,Rib,114.25,687.80,2281.87,n/a,n/a,n/a,n/a
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,Chin,7.30,3.69,9.35,n/a,n/a,n/a,n/a
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,Spine Tracking Volume,10.67,257.96,5109.57,n/a,n/a,n/a,n/a
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,Real Skin,7.30,41.33,1261.04,n/a,n/a,n/a,n/a
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,Skin,7.30,108.45,7407.41,n/a,n/a,n/a,n/a
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,[PTV] Shell 1,475.04,3401.28,5601.94,0.00,0.00,0.00,0.00
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,[PTV] Shell 2,124.28,1348.34,3748.07,0.00,0.00,0.00,0.00
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,[PTV] Shell 3,60.85,832.98,3233.14,0.00,0.00,0.00,0.00
+VOI,Min (cGy),Mean (cGy),Max (cGy),Cl,nCl,HI,Coverage %,[PTV] Shell 4,10.45,228.31,1097.22,0.00,0.00,0.00,0.00
+
+dxvx_dvh_column_title,dxvx_dose_absolute_column_title,dxvx_dose_percent_column_title,dxvx_volume_absolute_column_title,dxvx_volume_percentage_column_title,dxvx_dvh_name,dxvx_dose_abs,dxvx_dose_percent,dxvx_abs_volume,dxvx_percent_volumne
+DVH,Dose (cGy),Dose (%),Volume (mm^3),Volume (%),PTV,6000.0,81.0,12537,87.3
+DVH,Dose (cGy),Dose (%),Volume (mm^3),Volume (%),Trachea,3800.0,51.3,0,0.0
+DVH,Dose (cGy),Dose (%),Volume (mm^3),Volume (%),Trachea,1800.0,24.3,3724,2.6
+DVH,Dose (cGy),Dose (%),Volume (mm^3),Volume (%),Real Skin,2000.0,27.0,0,0.0
+DVH,Dose (cGy),Dose (%),Volume (mm^3),Volume (%),Oesophagus,2700.0,36.5,0,0.0
+DVH,Dose (cGy),Dose (%),Volume (mm^3),Volume (%),Oesophagus,2100.0,28.4,0,0.0
+DVH,Dose (cGy),Dose (%),Volume (mm^3),Volume (%),Spinal Canal,2250.0,30.4,0,0.0
+DVH,Dose (cGy),Dose (%),Volume (mm^3),Volume (%),Spinal Canal,1350.0,18.2,479,0.4
+DVH,Dose (cGy),Dose (%),Volume (mm^3),Volume (%),Heart,3000.0,40.5,0,0.0
+DVH,Dose (cGy),Dose (%),Volume (mm^3),Volume (%),Heart,2400.0,32.4,0,0.0
+DVH,Dose (cGy),Dose (%),Volume (mm^3),Volume (%),Lung L,1050.0,14.2,0,0.0
+DVH,Dose (cGy),Dose (%),Volume (mm^3),Volume (%),Lung R,1050.0,14.2,327050,9.7
+DVH,Dose (cGy),Dose (%),Volume (mm^3),Volume (%),Great Vessels,5300.0,71.6,0,0.0
+DVH,Dose (cGy),Dose (%),Volume (mm^3),Volume (%),Great Vessels,4700.0,63.5,72,0.0
+DVH,Dose (cGy),Dose (%),Volume (mm^3),Volume (%),Real Skin,2000.0,27.0,0,0.0
+
+DOSE_PERCENT,VOI_NAME,VOI_VOLUME
+0,GTV expi,2837.45
+0,GTV inspi,2368.28
+0,CTV pet,2424.35
+0,CTV combi,7551.57
+0,PTV,14359.21
+0,Trachea,141935.96
+0,Oesophagus,85904.77
+0,Great Vessels,751553.65
+0,Rib,48425.41
+0,Chin,1533956.60
+0,Spine Tracking Volume,1460067.06
+0,Real Skin,2760724.87
+0,Skin,32085388.57
+0,Lung L,2699358.98
+0,Lung R,3380225.03
+0,Spinal Canal,110146.45
+0,Heart,374141.27
+0,[PTV] Shell 1,8631.97
+0,[PTV] Shell 2,19649.05
+0,[PTV] Shell 3,31565.21
+0,[PTV] Shell 4,108881.00
+1,GTV expi,2837.45
+1,GTV inspi,2368.28
+1,CTV pet,2424.35
+1,CTV combi,7551.57
+1,PTV,14359.21
+1,Trachea,35240.06
+1,Oesophagus,22669.68
+1,Great Vessels,489738.31
+1,Rib,48425.41
+1,Chin,0
+1,Spine Tracking Volume,650437.32
+1,Real Skin,349058.46
+1,Skin,6990724.49
+1,Lung L,813857.88
+1,Lung R,1787556.80
+1,Spinal Canal,25366.94
+1,Heart,186110.80
+1,[PTV] Shell 1,8631.97
+1,[PTV] Shell 2,19649.05
+1,[PTV] Shell 3,29929.66
+1,[PTV] Shell 4,69194.11
+2,GTV expi,2837.45
+2,GTV inspi,2368.28
+2,CTV pet,2424.35
+2,CTV combi,7551.57
+2,PTV,14359.21
+2,Trachea,32780.19
+2,Oesophagus,16009.71
+2,Great Vessels,415712.32
+2,Rib,48098.30
+2,Chin,0
+2,Spine Tracking Volume,562237.17
+2,Real Skin,205242.08
+2,Skin,5333510.86
+2,Lung L,610275.65
+2,Lung R,1561764.72
+2,Spinal Canal,23507.08
+2,Heart,145700.53
+2,[PTV] Shell 1,8631.97
+2,[PTV] Shell 2,19026.60
+2,[PTV] Shell 3,26514.63
+2,[PTV] Shell 4,57440.57
+3,GTV expi,2837.45
+3,GTV inspi,2368.28
+3,CTV pet,2424.35
+3,CTV combi,7551.57
+3,PTV,14359.21
+3,Trachea,29617.50
+3,Oesophagus,14355.47
+3,Great Vessels,360303.57
+3,Rib,44832.80
+3,Chin,0
+3,Spine Tracking Volume,485082.13
+3,Real Skin,142233.16
+3,Skin,4342777.90
+3,Lung L,459767.53
+3,Lung R,1422780.23
+3,Spinal Canal,21598.63
+3,Heart,113983.92
+3,[PTV] Shell 1,8631.97
+3,[PTV] Shell 2,18004.15
+3,[PTV] Shell 3,25738.91
+3,[PTV] Shell 4,46716.96
+4,GTV expi,2837.45
+4,GTV inspi,2368.28
+4,CTV pet,2424.35
+4,CTV combi,7551.57
+4,PTV,14359.21
+4,Trachea,26753.88
+4,Oesophagus,12734.87
+4,Great Vessels,296836.70
+4,Rib,39903.72
+4,Chin,0
+4,Spine Tracking Volume,407732.70
+4,Real Skin,103499.57
+4,Skin,3575465.01
+4,Lung L,320239.11
+4,Lung R,1304222.37
+4,Spinal Canal,19551.85
+4,Heart,74091.42
+4,[PTV] Shell 1,8631.97
+4,[PTV] Shell 2,17622.83
+4,[PTV] Shell 3,24965.06
+4,[PTV] Shell 4,36197.09
+5,GTV expi,2837.45
+5,GTV inspi,2368.28
+5,CTV pet,2424.35
+5,CTV combi,7551.57
+5,PTV,14359.21
+5,Trachea,24015.50
+5,Oesophagus,9846.95
+5,Great Vessels,231934.28
+5,Rib,36006.43
+5,Chin,0
+5,Spine Tracking Volume,341002.20
+5,Real Skin,64072.49
+5,Skin,2862033.73
+5,Lung L,212051.58
+5,Lung R,1173208.16
+5,Spinal Canal,16516.27
+5,Heart,44582.33
+5,[PTV] Shell 1,8631.97
+5,[PTV] Shell 2,17310.68
+5,[PTV] Shell 3,24148.22
+5,[PTV] Shell 4,26890.34
+6,GTV expi,2837.45
+6,GTV inspi,2368.28
+6,CTV pet,2424.35
+6,CTV combi,7551.57
+6,PTV,14359.21
+6,Trachea,21159.36
+6,Oesophagus,7312.32
+6,Great Vessels,173166.58
+6,Rib,32937.20
+6,Chin,0
+6,Spine Tracking Volume,284032.67
+6,Real Skin,31602.59
+6,Skin,2186541.63
+6,Lung L,122643.93
+6,Lung R,1005854.80
+6,Spinal Canal,14245.19
+6,Heart,24619.26
+6,[PTV] Shell 1,8631.97
+6,[PTV] Shell 2,16976.09
+6,[PTV] Shell 3,23172.49
+6,[PTV] Shell 4,18611.64
+7,GTV expi,2837.45
+7,GTV inspi,2368.28
+7,CTV pet,2424.35
+7,CTV combi,7551.57
+7,PTV,14359.21
+7,Trachea,19071.46
+7,Oesophagus,6020.70
+7,Great Vessels,127019.73
+7,Rib,29217.49
+7,Chin,0
+7,Spine Tracking Volume,234928.74
+7,Real Skin,12970.39
+7,Skin,1588131.68
+7,Lung L,64900.55
+7,Lung R,815091.55
+7,Spinal Canal,12331.12
+7,Heart,14086.30
+7,[PTV] Shell 1,8566.55
+7,[PTV] Shell 2,16576.08
+7,[PTV] Shell 3,21873.40
+7,[PTV] Shell 4,11779.71
+8,GTV expi,2837.45
+8,GTV inspi,2368.28
+8,CTV pet,2424.35
+8,CTV combi,7551.57
+8,PTV,14359.21
+8,Trachea,17187.31
+8,Oesophagus,4557.11
+8,Great Vessels,95703.12
+8,Rib,24800.57
+8,Chin,0
+8,Spine Tracking Volume,194342.77
+8,Real Skin,6790.81
+8,Skin,1184114.95
+8,Lung L,25994.99
+8,Lung R,692840.16
+8,Spinal Canal,10721.74
+8,Heart,7751.58
+8,[PTV] Shell 1,8542.25
+8,[PTV] Shell 2,16241.49
+8,[PTV] Shell 3,20327.57
+8,[PTV] Shell 4,8192.71
+9,GTV expi,2837.45
+9,GTV inspi,2368.28
+9,CTV pet,2424.35
+9,CTV combi,7551.57
+9,PTV,14359.21
+9,Trachea,15734.94
+9,Oesophagus,3519.71
+9,Great Vessels,69915.62
+9,Rib,20931.32
+9,Chin,0
+9,Spine Tracking Volume,162269.13
+9,Real Skin,3794.48
+9,Skin,958509.79
+9,Lung L,8132.90
+9,Lung R,613976.67
+9,Spinal Canal,8938.52
+9,Heart,5536.58
+9,[PTV] Shell 1,8527.30
+9,[PTV] Shell 2,15877.00
+9,[PTV] Shell 3,18751.83
+9,[PTV] Shell 4,5551.53
+10,GTV expi,2837.45
+10,GTV inspi,2368.28
+10,CTV pet,2424.35
+10,CTV combi,7551.57
+10,PTV,14359.21
+10,Trachea,14693.79
+10,Oesophagus,2448.65
+10,Great Vessels,48436.62
+10,Rib,17682.65
+10,Chin,0
+10,Spine Tracking Volume,136902.20
+10,Real Skin,2033.69
+10,Skin,794335.94
+10,Lung L,3601.95
+10,Lung R,542378.77
+10,Spinal Canal,7202.03
+10,Heart,3175.77
+10,[PTV] Shell 1,8480.57
+10,[PTV] Shell 2,15473.25
+10,[PTV] Shell 3,17105.06
+10,[PTV] Shell 4,3600.08
+11,GTV expi,2837.45
+11,GTV inspi,2368.28
+11,CTV pet,2424.35
+11,CTV combi,7551.57
+11,PTV,14359.21
+11,Trachea,13232.08
+11,Oesophagus,1471.06
+11,Great Vessels,33290.48
+11,Rib,15091.93
+11,Chin,0
+11,Spine Tracking Volume,116550.33
+11,Real Skin,1102.83
+11,Skin,663852.58
+11,Lung L,1998.18
+11,Lung R,476551.09
+11,Spinal Canal,5532.84
+11,Heart,1327.13
+11,[PTV] Shell 1,8428.23
+11,[PTV] Shell 2,14968.57
+11,[PTV] Shell 3,15348.01
+11,[PTV] Shell 4,2100.98
+12,GTV expi,2837.45
+12,GTV inspi,2368.28
+12,CTV pet,2424.35
+12,CTV combi,7551.57
+12,PTV,14359.21
+12,Trachea,11764.76
+12,Oesophagus,766.37
+12,Great Vessels,23813.63
+12,Rib,12998.43
+12,Chin,0
+12,Spine Tracking Volume,100611.65
+12,Real Skin,566.37
+12,Skin,559078.22
+12,Lung L,689.74
+12,Lung R,419979.71
+12,Spinal Canal,4136.54
+12,Heart,168.23
+12,[PTV] Shell 1,8400.19
+12,[PTV] Shell 2,14303.13
+12,[PTV] Shell 3,13432.08
+12,[PTV] Shell 4,1076.66
+13,GTV expi,2837.45
+13,GTV inspi,2368.28
+13,CTV pet,2424.35
+13,CTV combi,7551.57
+13,PTV,14359.21
+13,Trachea,10553.51
+13,Oesophagus,327.11
+13,Great Vessels,18680.80
+13,Rib,11136.70
+13,Chin,0
+13,Spine Tracking Volume,87865.56
+13,Real Skin,244.87
+13,Skin,474883.77
+13,Lung L,9.35
+13,Lung R,368926.20
+13,Spinal Canal,3065.49
+13,Heart,0
+13,[PTV] Shell 1,8374.02
+13,[PTV] Shell 2,13476.94
+13,[PTV] Shell 3,11710.55
+13,[PTV] Shell 4,424.31
+14,GTV expi,2837.45
+14,GTV inspi,2368.28
+14,CTV pet,2424.35
+14,CTV combi,7551.57
+14,PTV,14359.21
+14,Trachea,9484.33
+14,Oesophagus,65.42
+14,Great Vessels,14813.42
+14,Rib,9529.19
+14,Chin,0
+14,Spine Tracking Volume,77427.94
+14,Real Skin,108.41
+14,Skin,412803.84
+14,Lung L,0
+14,Lung R,332463.68
+14,Spinal Canal,2186.97
+14,Heart,0
+14,[PTV] Shell 1,8357.20
+14,[PTV] Shell 2,12615.24
+14,[PTV] Shell 3,10117.99
+14,[PTV] Shell 4,162.62
+15,GTV expi,2837.45
+15,GTV inspi,2368.28
+15,CTV pet,2424.35
+15,CTV combi,7551.57
+15,PTV,14359.21
+15,Trachea,8549.73
+15,Oesophagus,0
+15,Great Vessels,12323.65
+15,Rib,8052.52
+15,Chin,0
+15,Spine Tracking Volume,68752.98
+15,Real Skin,22.43
+15,Skin,364015.81
+15,Lung L,0
+15,Lung R,301530.27
+15,Spinal Canal,1472.93
+15,Heart,0
+15,[PTV] Shell 1,8342.25
+15,[PTV] Shell 2,11815.22
+15,[PTV] Shell 3,8886.18
+15,[PTV] Shell 4,0
+16,GTV expi,2837.45
+16,GTV inspi,2368.28
+16,CTV pet,2424.35
+16,CTV combi,7551.57
+16,PTV,14359.21
+16,Trachea,7987.10
+16,Oesophagus,0
+16,Great Vessels,10418.93
+16,Rib,6545.94
+16,Chin,0
+16,Spine Tracking Volume,61313.55
+16,Real Skin,5.61
+16,Skin,327700.96
+16,Lung L,0
+16,Lung R,277211.95
+16,Spinal Canal,1016.85
+16,Heart,0
+16,[PTV] Shell 1,8321.69
+16,[PTV] Shell 2,11114.27
+16,[PTV] Shell 3,7775.88
+16,[PTV] Shell 4,0
+17,GTV expi,2837.45
+17,GTV inspi,2368.28
+17,CTV pet,2424.35
+17,CTV combi,7551.57
+17,PTV,14359.21
+17,Trachea,7450.64
+17,Oesophagus,0
+17,Great Vessels,8946.00
+17,Rib,5211.33
+17,Chin,0
+17,Spine Tracking Volume,55064.81
+17,Real Skin,1.87
+17,Skin,297952.61
+17,Lung L,0
+17,Lung R,256067.54
+17,Spinal Canal,728.99
+17,Heart,0
+17,[PTV] Shell 1,8282.43
+17,[PTV] Shell 2,10295.56
+17,[PTV] Shell 3,6745.95
+17,[PTV] Shell 4,0
+18,GTV expi,2837.45
+18,GTV inspi,2368.28
+18,CTV pet,2424.35
+18,CTV combi,7551.57
+18,PTV,14359.21
+18,Trachea,6882.40
+18,Oesophagus,0
+18,Great Vessels,7972.15
+18,Rib,4130.94
+18,Chin,0
+18,Spine Tracking Volume,49793.66
+18,Real Skin,0
+18,Skin,272924.00
+18,Lung L,0
+18,Lung R,237661.51
+18,Spinal Canal,515.90
+18,Heart,0
+18,[PTV] Shell 1,8258.13
+18,[PTV] Shell 2,9422.65
+18,[PTV] Shell 3,5873.03
+18,[PTV] Shell 4,0
+19,GTV expi,2837.45
+19,GTV inspi,2368.28
+19,CTV pet,2424.35
+19,CTV combi,7551.57
+19,PTV,14359.21
+19,Trachea,6336.59
+19,Oesophagus,0
+19,Great Vessels,7149.70
+19,Rib,3241.20
+19,Chin,0
+19,Spine Tracking Volume,45038.41
+19,Real Skin,0
+19,Skin,251615.10
+19,Lung L,0
+19,Lung R,221709.75
+19,Spinal Canal,353.28
+19,Heart,0
+19,[PTV] Shell 1,8243.18
+19,[PTV] Shell 2,8568.42
+19,[PTV] Shell 3,5041.24
+19,[PTV] Shell 4,0
+20,GTV expi,2837.45
+20,GTV inspi,2368.28
+20,CTV pet,2424.35
+20,CTV combi,7551.57
+20,PTV,14359.21
+20,Trachea,5811.35
+20,Oesophagus,0
+20,Great Vessels,6456.22
+20,Rib,2508.47
+20,Chin,0
+20,Spine Tracking Volume,40871.96
+20,Real Skin,0
+20,Skin,233252.07
+20,Lung L,0
+20,Lung R,207546.81
+20,Spinal Canal,211.22
+20,Heart,0
+20,[PTV] Shell 1,8213.27
+20,[PTV] Shell 2,7785.22
+20,[PTV] Shell 3,4297.29
+20,[PTV] Shell 4,0
+21,GTV expi,2837.45
+21,GTV inspi,2368.28
+21,CTV pet,2424.35
+21,CTV combi,7551.57
+21,PTV,14359.21
+21,Trachea,5273.02
+21,Oesophagus,0
+21,Great Vessels,5699.20
+21,Rib,1824.34
+21,Chin,0
+21,Spine Tracking Volume,37152.25
+21,Real Skin,0
+21,Skin,216578.79
+21,Lung L,0
+21,Lung R,194656.79
+21,Spinal Canal,102.81
+21,Heart,0
+21,[PTV] Shell 1,8194.58
+21,[PTV] Shell 2,7106.70
+21,[PTV] Shell 3,3555.22
+21,[PTV] Shell 4,0
+22,GTV expi,2837.45
+22,GTV inspi,2368.28
+22,CTV pet,2424.35
+22,CTV combi,7551.57
+22,PTV,14359.21
+22,Trachea,4811.33
+22,Oesophagus,0
+22,Great Vessels,4987.03
+22,Rib,1160.77
+22,Chin,0
+22,Spine Tracking Volume,33759.65
+22,Real Skin,0
+22,Skin,201563.49
+22,Lung L,0
+22,Lung R,182966.80
+22,Spinal Canal,28.04
+22,Heart,0
+22,[PTV] Shell 1,8162.80
+22,[PTV] Shell 2,6559.03
+22,[PTV] Shell 3,2990.72
+22,[PTV] Shell 4,0
+23,GTV expi,2837.45
+23,GTV inspi,2368.28
+23,CTV pet,2424.35
+23,CTV combi,7551.57
+23,PTV,14359.21
+23,Trachea,4297.29
+23,Oesophagus,0
+23,Great Vessels,4058.04
+23,Rib,609.36
+23,Chin,0
+23,Spine Tracking Volume,30550.23
+23,Real Skin,0
+23,Skin,187185.59
+23,Lung L,0
+23,Lung R,171843.19
+23,Spinal Canal,0
+23,Heart,0
+23,[PTV] Shell 1,8117.94
+23,[PTV] Shell 2,5932.85
+23,[PTV] Shell 3,2351.46
+23,[PTV] Shell 4,0
+24,GTV expi,2837.45
+24,GTV inspi,2368.28
+24,CTV pet,2424.35
+24,CTV combi,7551.57
+24,PTV,14359.21
+24,Trachea,3844.95
+24,Oesophagus,0
+24,Great Vessels,3504.75
+24,Rib,312.16
+24,Chin,0
+24,Spine Tracking Volume,27766.99
+24,Real Skin,0
+24,Skin,174914.28
+24,Lung L,0
+24,Lung R,162134.55
+24,Spinal Canal,0
+24,Heart,0
+24,[PTV] Shell 1,8080.56
+24,[PTV] Shell 2,5274.89
+24,[PTV] Shell 3,1826.21
+24,[PTV] Shell 4,0
+25,GTV expi,2837.45
+25,GTV inspi,2368.28
+25,CTV pet,2424.35
+25,CTV combi,7551.57
+25,PTV,14359.21
+25,Trachea,3443.07
+25,Oesophagus,0
+25,Great Vessels,3078.58
+25,Rib,166.36
+25,Chin,0
+25,Spine Tracking Volume,25198.71
+25,Real Skin,0
+25,Skin,163730.85
+25,Lung L,0
+25,Lung R,152895.09
+25,Spinal Canal,0
+25,Heart,0
+25,[PTV] Shell 1,8033.83
+25,[PTV] Shell 2,4689.83
+25,[PTV] Shell 3,1403.77
+25,[PTV] Shell 4,0
+26,GTV expi,2837.45
+26,GTV inspi,2368.28
+26,CTV pet,2424.35
+26,CTV combi,7551.57
+26,PTV,14359.21
+26,Trachea,3076.71
+26,Oesophagus,0
+26,Great Vessels,2727.17
+26,Rib,76.64
+26,Chin,0
+26,Spine Tracking Volume,22813.61
+26,Real Skin,0
+26,Skin,153736.23
+26,Lung L,0
+26,Lung R,144502.37
+26,Spinal Canal,0
+26,Heart,0
+26,[PTV] Shell 1,7972.15
+26,[PTV] Shell 2,4216.92
+26,[PTV] Shell 3,1151.43
+26,[PTV] Shell 4,0
+27,GTV expi,2837.45
+27,GTV inspi,2368.28
+27,CTV pet,2424.35
+27,CTV combi,7551.57
+27,PTV,14359.21
+27,Trachea,2766.42
+27,Oesophagus,0
+27,Great Vessels,2480.43
+27,Rib,31.78
+27,Chin,0
+27,Spine Tracking Volume,20742.53
+27,Real Skin,0
+27,Skin,145044.44
+27,Lung L,0
+27,Lung R,137048.00
+27,Spinal Canal,0
+27,Heart,0
+27,[PTV] Shell 1,7904.85
+27,[PTV] Shell 2,3790.74
+27,[PTV] Shell 3,958.90
+27,[PTV] Shell 4,0
+28,GTV expi,2837.45
+28,GTV inspi,2368.28
+28,CTV pet,2424.35
+28,CTV combi,7551.57
+28,PTV,14359.21
+28,Trachea,2472.95
+28,Oesophagus,0
+28,Great Vessels,2282.30
+28,Rib,13.08
+28,Chin,0
+28,Spine Tracking Volume,18751.83
+28,Real Skin,0
+28,Skin,137378.85
+28,Lung L,0
+28,Lung R,130513.27
+28,Spinal Canal,0
+28,Heart,0
+28,[PTV] Shell 1,7833.82
+28,[PTV] Shell 2,3446.81
+28,[PTV] Shell 3,788.80
+28,[PTV] Shell 4,0
+29,GTV expi,2837.45
+29,GTV inspi,2368.28
+29,CTV pet,2424.35
+29,CTV combi,7551.57
+29,PTV,14359.21
+29,Trachea,2168.27
+29,Oesophagus,0
+29,Great Vessels,2074.81
+29,Rib,7.48
+29,Chin,0
+29,Spine Tracking Volume,17080.76
+29,Real Skin,0
+29,Skin,130483.36
+29,Lung L,0
+29,Lung R,124591.64
+29,Spinal Canal,0
+29,Heart,0
+29,[PTV] Shell 1,7738.49
+29,[PTV] Shell 2,3093.53
+29,[PTV] Shell 3,629.92
+29,[PTV] Shell 4,0
+30,GTV expi,2837.45
+30,GTV inspi,2368.28
+30,CTV pet,2424.35
+30,CTV combi,7551.57
+30,PTV,14359.21
+30,Trachea,1942.10
+30,Oesophagus,0
+30,Great Vessels,1914.06
+30,Rib,3.74
+30,Chin,0
+30,Spine Tracking Volume,15452.69
+30,Real Skin,0
+30,Skin,123948.63
+30,Lung L,0
+30,Lung R,118892.44
+30,Spinal Canal,0
+30,Heart,0
+30,[PTV] Shell 1,7659.99
+30,[PTV] Shell 2,2747.73
+30,[PTV] Shell 3,471.04
+30,[PTV] Shell 4,0
+31,GTV expi,2837.45
+31,GTV inspi,2368.28
+31,CTV pet,2424.35
+31,CTV combi,7551.57
+31,PTV,14359.21
+31,Trachea,1723.40
+31,Oesophagus,0
+31,Great Vessels,1775.74
+31,Rib,0
+31,Chin,0
+31,Spine Tracking Volume,13974.15
+31,Real Skin,0
+31,Skin,117976.53
+31,Lung L,0
+31,Lung R,113682.98
+31,Spinal Canal,0
+31,Heart,0
+31,[PTV] Shell 1,7547.84
+31,[PTV] Shell 2,2443.05
+31,[PTV] Shell 3,355.15
+31,[PTV] Shell 4,0
+32,GTV expi,2837.45
+32,GTV inspi,2368.28
+32,CTV pet,2424.35
+32,CTV combi,7551.57
+32,PTV,14359.21
+32,Trachea,1527.14
+32,Oesophagus,0
+32,Great Vessels,1646.77
+32,Rib,0
+32,Chin,0
+32,Spine Tracking Volume,12680.66
+32,Real Skin,0
+32,Skin,112578.28
+32,Lung L,0
+32,Lung R,108980.06
+32,Spinal Canal,0
+32,Heart,0
+32,[PTV] Shell 1,7422.60
+32,[PTV] Shell 2,2093.51
+32,[PTV] Shell 3,271.03
+32,[PTV] Shell 4,0
+33,GTV expi,2837.45
+33,GTV inspi,2368.28
+33,CTV pet,2424.35
+33,CTV combi,7551.57
+33,PTV,14359.21
+33,Trachea,1358.91
+33,Oesophagus,0
+33,Great Vessels,1500.97
+33,Rib,0
+33,Chin,0
+33,Spine Tracking Volume,11475.03
+33,Real Skin,0
+33,Skin,107464.14
+33,Lung L,0
+33,Lung R,104409.87
+33,Spinal Canal,0
+33,Heart,0
+33,[PTV] Shell 1,7284.28
+33,[PTV] Shell 2,1749.57
+33,[PTV] Shell 3,213.09
+33,[PTV] Shell 4,0
+34,GTV expi,2837.45
+34,GTV inspi,2368.28
+34,CTV pet,2424.35
+34,CTV combi,7551.57
+34,PTV,14359.21
+34,Trachea,1194.42
+34,Oesophagus,0
+34,Great Vessels,1383.21
+34,Rib,0
+34,Chin,0
+34,Spine Tracking Volume,10417.06
+34,Real Skin,0
+34,Skin,102815.44
+34,Lung L,0
+34,Lung R,100187.34
+34,Spinal Canal,0
+34,Heart,0
+34,[PTV] Shell 1,7119.79
+34,[PTV] Shell 2,1486.02
+34,[PTV] Shell 3,158.88
+34,[PTV] Shell 4,0
+35,GTV expi,2837.45
+35,GTV inspi,2368.28
+35,CTV pet,2424.35
+35,CTV combi,7551.57
+35,PTV,14359.21
+35,Trachea,1039.28
+35,Oesophagus,0
+35,Great Vessels,1263.58
+35,Rib,0
+35,Chin,0
+35,Spine Tracking Volume,9501.15
+35,Real Skin,0
+35,Skin,98523.75
+35,Lung L,0
+35,Lung R,96254.54
+35,Spinal Canal,0
+35,Heart,0
+35,[PTV] Shell 1,6936.61
+35,[PTV] Shell 2,1216.85
+35,[PTV] Shell 3,110.28
+35,[PTV] Shell 4,0
+36,GTV expi,2837.45
+36,GTV inspi,2368.28
+36,CTV pet,2424.35
+36,CTV combi,7551.57
+36,PTV,14359.21
+36,Trachea,900.96
+36,Oesophagus,0
+36,Great Vessels,1142.08
+36,Rib,0
+36,Chin,0
+36,Spine Tracking Volume,8633.84
+36,Real Skin,0
+36,Skin,94555.44
+36,Lung L,0
+36,Lung R,92603.99
+36,Spinal Canal,0
+36,Heart,0
+36,[PTV] Shell 1,6759.03
+36,[PTV] Shell 2,1005.63
+36,[PTV] Shell 3,85.98
+36,[PTV] Shell 4,0
+37,GTV expi,2837.45
+37,GTV inspi,2368.28
+37,CTV pet,2424.35
+37,CTV combi,7551.57
+37,PTV,14359.21
+37,Trachea,781.33
+37,Oesophagus,0
+37,Great Vessels,1041.15
+37,Rib,0
+37,Chin,0
+37,Spine Tracking Volume,7820.74
+37,Real Skin,0
+37,Skin,90788.99
+37,Lung L,0
+37,Lung R,89140.36
+37,Spinal Canal,0
+37,Heart,0
+37,[PTV] Shell 1,6544.08
+37,[PTV] Shell 2,874.79
+37,[PTV] Shell 3,63.55
+37,[PTV] Shell 4,0
+38,GTV expi,2837.45
+38,GTV inspi,2368.28
+38,CTV pet,2424.35
+38,CTV combi,7551.57
+38,PTV,14359.21
+38,Trachea,650.48
+38,Oesophagus,0
+38,Great Vessels,957.03
+38,Rib,0
+38,Chin,0
+38,Spine Tracking Volume,7116.05
+38,Real Skin,0
+38,Skin,87332.84
+38,Lung L,0
+38,Lung R,85901.03
+38,Spinal Canal,0
+38,Heart,0
+38,[PTV] Shell 1,6316.03
+38,[PTV] Shell 2,706.56
+38,[PTV] Shell 3,46.73
+38,[PTV] Shell 4,0
+39,GTV expi,2837.45
+39,GTV inspi,2368.28
+39,CTV pet,2424.35
+39,CTV combi,7551.57
+39,PTV,14359.21
+39,Trachea,532.72
+39,Oesophagus,0
+39,Great Vessels,880.39
+39,Rib,0
+39,Chin,0
+39,Spine Tracking Volume,6493.61
+39,Real Skin,0
+39,Skin,84119.68
+39,Lung L,0
+39,Lung R,82889.75
+39,Spinal Canal,0
+39,Heart,0
+39,[PTV] Shell 1,6067.43
+39,[PTV] Shell 2,577.58
+39,[PTV] Shell 3,29.91
+39,[PTV] Shell 4,0
+40,GTV expi,2837.45
+40,GTV inspi,2368.28
+40,CTV pet,2424.35
+40,CTV combi,7551.57
+40,PTV,14359.21
+40,Trachea,431.79
+40,Oesophagus,0
+40,Great Vessels,811.23
+40,Rib,0
+40,Chin,0
+40,Spine Tracking Volume,5846.86
+40,Real Skin,0
+40,Skin,80973.82
+40,Lung L,0
+40,Lung R,79912.11
+40,Spinal Canal,0
+40,Heart,0
+40,[PTV] Shell 1,5835.65
+40,[PTV] Shell 2,420.57
+40,[PTV] Shell 3,22.43
+40,[PTV] Shell 4,0
+41,GTV expi,2837.45
+41,GTV inspi,2368.28
+41,CTV pet,2424.35
+41,CTV combi,7551.57
+41,PTV,14359.21
+41,Trachea,355.15
+41,Oesophagus,0
+41,Great Vessels,755.16
+41,Rib,0
+41,Chin,0
+41,Spine Tracking Volume,5297.32
+41,Real Skin,0
+41,Skin,78020.48
+41,Lung L,0
+41,Lung R,77108.31
+41,Spinal Canal,0
+41,Heart,0
+41,[PTV] Shell 1,5588.91
+41,[PTV] Shell 2,336.46
+41,[PTV] Shell 3,14.95
+41,[PTV] Shell 4,0
+42,GTV expi,2837.45
+42,GTV inspi,2368.28
+42,CTV pet,2424.35
+42,CTV combi,7551.57
+42,PTV,14359.21
+42,Trachea,274.77
+42,Oesophagus,0
+42,Great Vessels,684.13
+42,Rib,0
+42,Chin,0
+42,Spine Tracking Volume,4768.33
+42,Real Skin,0
+42,Skin,75087.70
+42,Lung L,0
+42,Lung R,74319.46
+42,Spinal Canal,0
+42,Heart,0
+42,[PTV] Shell 1,5360.87
+42,[PTV] Shell 2,256.08
+42,[PTV] Shell 3,14.95
+42,[PTV] Shell 4,0
+43,GTV expi,2837.45
+43,GTV inspi,2368.28
+43,CTV pet,2424.35
+43,CTV combi,7551.57
+43,PTV,14359.21
+43,Trachea,201.87
+43,Oesophagus,0
+43,Great Vessels,626.18
+43,Rib,0
+43,Chin,0
+43,Spine Tracking Volume,4284.21
+43,Real Skin,0
+43,Skin,72306.33
+43,Lung L,0
+43,Lung R,71668.93
+43,Spinal Canal,0
+43,Heart,0
+43,[PTV] Shell 1,5117.87
+43,[PTV] Shell 2,198.14
+43,[PTV] Shell 3,3.74
+43,[PTV] Shell 4,0
+44,GTV expi,2837.45
+44,GTV inspi,2368.28
+44,CTV pet,2424.35
+44,CTV combi,7551.57
+44,PTV,14359.21
+44,Trachea,153.27
+44,Oesophagus,0
+44,Great Vessels,588.80
+44,Rib,0
+44,Chin,0
+44,Spine Tracking Volume,3869.25
+44,Real Skin,0
+44,Skin,69695.05
+44,Lung L,0
+44,Lung R,69149.25
+44,Spinal Canal,0
+44,Heart,0
+44,[PTV] Shell 1,4874.88
+44,[PTV] Shell 2,155.14
+44,[PTV] Shell 3,0
+44,[PTV] Shell 4,0
+45,GTV expi,2837.45
+45,GTV inspi,2368.28
+45,CTV pet,2424.35
+45,CTV combi,7551.57
+45,PTV,14359.21
+45,Trachea,125.24
+45,Oesophagus,0
+45,Great Vessels,540.20
+45,Rib,0
+45,Chin,0
+45,Spine Tracking Volume,3469.24
+45,Real Skin,0
+45,Skin,67259.48
+45,Lung L,0
+45,Lung R,66807.14
+45,Spinal Canal,0
+45,Heart,0
+45,[PTV] Shell 1,4663.66
+45,[PTV] Shell 2,117.76
+45,[PTV] Shell 3,0
+45,[PTV] Shell 4,0
+46,GTV expi,2837.45
+46,GTV inspi,2368.28
+46,CTV pet,2424.35
+46,CTV combi,7551.57
+46,PTV,14359.21
+46,Trachea,82.24
+46,Oesophagus,0
+46,Great Vessels,525.25
+46,Rib,0
+46,Chin,0
+46,Spine Tracking Volume,3074.84
+46,Real Skin,0
+46,Skin,64855.69
+46,Lung L,0
+46,Lung R,64468.77
+46,Spinal Canal,0
+46,Heart,0
+46,[PTV] Shell 1,4435.62
+46,[PTV] Shell 2,91.59
+46,[PTV] Shell 3,0
+46,[PTV] Shell 4,0
+47,GTV expi,2837.45
+47,GTV inspi,2368.28
+47,CTV pet,2424.35
+47,CTV combi,7551.57
+47,PTV,14359.21
+47,Trachea,50.47
+47,Oesophagus,0
+47,Great Vessels,487.86
+47,Rib,0
+47,Chin,0
+47,Spine Tracking Volume,2747.73
+47,Real Skin,0
+47,Skin,62625.73
+47,Lung L,0
+47,Lung R,62300.49
+47,Spinal Canal,0
+47,Heart,0
+47,[PTV] Shell 1,4200.10
+47,[PTV] Shell 2,65.42
+47,[PTV] Shell 3,0
+47,[PTV] Shell 4,0
+48,GTV expi,2837.45
+48,GTV inspi,2368.28
+48,CTV pet,2424.35
+48,CTV combi,7551.57
+48,PTV,14359.21
+48,Trachea,24.30
+48,Oesophagus,0
+48,Great Vessels,448.61
+48,Rib,0
+48,Chin,0
+48,Spine Tracking Volume,2424.35
+48,Real Skin,0
+48,Skin,60496.71
+48,Lung L,0
+48,Lung R,60235.02
+48,Spinal Canal,0
+48,Heart,0
+48,[PTV] Shell 1,3988.88
+48,[PTV] Shell 2,37.38
+48,[PTV] Shell 3,0
+48,[PTV] Shell 4,0
+49,GTV expi,2837.45
+49,GTV inspi,2368.28
+49,CTV pet,2424.35
+49,CTV combi,7551.57
+49,PTV,14359.21
+49,Trachea,16.82
+49,Oesophagus,0
+49,Great Vessels,418.70
+49,Rib,0
+49,Chin,0
+49,Spine Tracking Volume,2119.67
+49,Real Skin,0
+49,Skin,58399.47
+49,Lung L,0
+49,Lung R,58178.90
+49,Spinal Canal,0
+49,Heart,0
+49,[PTV] Shell 1,3781.39
+49,[PTV] Shell 2,18.69
+49,[PTV] Shell 3,0
+49,[PTV] Shell 4,0
+50,GTV expi,2837.45
+50,GTV inspi,2368.28
+50,CTV pet,2424.35
+50,CTV combi,7551.57
+50,PTV,14359.21
+50,Trachea,13.08
+50,Oesophagus,0
+50,Great Vessels,386.92
+50,Rib,0
+50,Chin,0
+50,Spine Tracking Volume,1884.16
+50,Real Skin,0
+50,Skin,56491.01
+50,Lung L,0
+50,Lung R,56305.96
+50,Spinal Canal,0
+50,Heart,0
+50,[PTV] Shell 1,3502.88
+50,[PTV] Shell 2,5.61
+50,[PTV] Shell 3,0
+50,[PTV] Shell 4,0
+51,GTV expi,2837.45
+51,GTV inspi,2368.28
+51,CTV pet,2424.35
+51,CTV combi,7551.57
+51,PTV,14359.21
+51,Trachea,1.87
+51,Oesophagus,0
+51,Great Vessels,366.36
+51,Rib,0
+51,Chin,0
+51,Spine Tracking Volume,1629.94
+51,Real Skin,0
+51,Skin,54655.46
+51,Lung L,0
+51,Lung R,54502.18
+51,Spinal Canal,0
+51,Heart,0
+51,[PTV] Shell 1,3308.49
+51,[PTV] Shell 2,0
+51,[PTV] Shell 3,0
+51,[PTV] Shell 4,0
+52,GTV expi,2837.45
+52,GTV inspi,2368.28
+52,CTV pet,2424.35
+52,CTV combi,7551.57
+52,PTV,14359.21
+52,Trachea,0
+52,Oesophagus,0
+52,Great Vessels,336.46
+52,Rib,0
+52,Chin,0
+52,Spine Tracking Volume,1422.46
+52,Real Skin,0
+52,Skin,52911.49
+52,Lung L,0
+52,Lung R,52778.78
+52,Spinal Canal,0
+52,Heart,0
+52,[PTV] Shell 1,3101.01
+52,[PTV] Shell 2,0
+52,[PTV] Shell 3,0
+52,[PTV] Shell 4,0
+53,GTV expi,2837.45
+53,GTV inspi,2368.28
+53,CTV pet,2424.35
+53,CTV combi,7551.57
+53,PTV,14359.21
+53,Trachea,0
+53,Oesophagus,0
+53,Great Vessels,310.29
+53,Rib,0
+53,Chin,0
+53,Spine Tracking Volume,1203.77
+53,Real Skin,0
+53,Skin,51219.86
+53,Lung L,0
+53,Lung R,51115.19
+53,Spinal Canal,0
+53,Heart,0
+53,[PTV] Shell 1,2844.92
+53,[PTV] Shell 2,0
+53,[PTV] Shell 3,0
+53,[PTV] Shell 4,0
+54,GTV expi,2837.45
+54,GTV inspi,2368.28
+54,CTV pet,2424.35
+54,CTV combi,7551.57
+54,PTV,14355.47
+54,Trachea,0
+54,Oesophagus,0
+54,Great Vessels,287.86
+54,Rib,0
+54,Chin,0
+54,Spine Tracking Volume,1037.41
+54,Real Skin,0
+54,Skin,49552.54
+54,Lung L,0
+54,Lung R,49466.55
+54,Spinal Canal,0
+54,Heart,0
+54,[PTV] Shell 1,2652.40
+54,[PTV] Shell 2,0
+54,[PTV] Shell 3,0
+54,[PTV] Shell 4,0
+55,GTV expi,2837.45
+55,GTV inspi,2368.28
+55,CTV pet,2424.35
+55,CTV combi,7551.57
+55,PTV,14353.60
+55,Trachea,0
+55,Oesophagus,0
+55,Great Vessels,256.08
+55,Rib,0
+55,Chin,0
+55,Spine Tracking Volume,897.22
+55,Real Skin,0
+55,Skin,48049.70
+55,Lung L,0
+55,Lung R,47982.41
+55,Spinal Canal,0
+55,Heart,0
+55,[PTV] Shell 1,2446.78
+55,[PTV] Shell 2,0
+55,[PTV] Shell 3,0
+55,[PTV] Shell 4,0
+56,GTV expi,2837.45
+56,GTV inspi,2368.28
+56,CTV pet,2424.35
+56,CTV combi,7551.57
+56,PTV,14349.86
+56,Trachea,0
+56,Oesophagus,0
+56,Great Vessels,229.91
+56,Rib,0
+56,Chin,0
+56,Spine Tracking Volume,742.07
+56,Real Skin,0
+56,Skin,46574.90
+56,Lung L,0
+56,Lung R,46526.30
+56,Spinal Canal,0
+56,Heart,0
+56,[PTV] Shell 1,2267.34
+56,[PTV] Shell 2,0
+56,[PTV] Shell 3,0
+56,[PTV] Shell 4,0
+57,GTV expi,2837.45
+57,GTV inspi,2368.28
+57,CTV pet,2424.35
+57,CTV combi,7551.57
+57,PTV,14344.25
+57,Trachea,0
+57,Oesophagus,0
+57,Great Vessels,207.48
+57,Rib,0
+57,Chin,0
+57,Spine Tracking Volume,609.36
+57,Real Skin,0
+57,Skin,45193.56
+57,Lung L,0
+57,Lung R,45156.17
+57,Spinal Canal,0
+57,Heart,0
+57,[PTV] Shell 1,2087.90
+57,[PTV] Shell 2,0
+57,[PTV] Shell 3,0
+57,[PTV] Shell 4,0
+58,GTV expi,2837.45
+58,GTV inspi,2368.28
+58,CTV pet,2424.35
+58,CTV combi,7551.57
+58,PTV,14329.30
+58,Trachea,0
+58,Oesophagus,0
+58,Great Vessels,185.05
+58,Rib,0
+58,Chin,0
+58,Spine Tracking Volume,485.99
+58,Real Skin,0
+58,Skin,43901.94
+58,Lung L,0
+58,Lung R,43873.90
+58,Spinal Canal,0
+58,Heart,0
+58,[PTV] Shell 1,1910.32
+58,[PTV] Shell 2,0
+58,[PTV] Shell 3,0
+58,[PTV] Shell 4,0
+59,GTV expi,2837.45
+59,GTV inspi,2368.28
+59,CTV pet,2424.35
+59,CTV combi,7551.57
+59,PTV,14308.74
+59,Trachea,0
+59,Oesophagus,0
+59,Great Vessels,164.49
+59,Rib,0
+59,Chin,0
+59,Spine Tracking Volume,368.23
+59,Real Skin,0
+59,Skin,42470.13
+59,Lung L,0
+59,Lung R,42449.57
+59,Spinal Canal,0
+59,Heart,0
+59,[PTV] Shell 1,1695.37
+59,[PTV] Shell 2,0
+59,[PTV] Shell 3,0
+59,[PTV] Shell 4,0
+60,GTV expi,2837.45
+60,GTV inspi,2368.28
+60,CTV pet,2424.35
+60,CTV combi,7551.57
+60,PTV,14299.39
+60,Trachea,0
+60,Oesophagus,0
+60,Great Vessels,138.32
+60,Rib,0
+60,Chin,0
+60,Spine Tracking Volume,272.90
+60,Real Skin,0
+60,Skin,41200.94
+60,Lung L,0
+60,Lung R,41185.99
+60,Spinal Canal,0
+60,Heart,0
+60,[PTV] Shell 1,1486.02
+60,[PTV] Shell 2,0
+60,[PTV] Shell 3,0
+60,[PTV] Shell 4,0
+61,GTV expi,2837.45
+61,GTV inspi,2368.28
+61,CTV pet,2424.35
+61,CTV combi,7551.57
+61,PTV,14280.70
+61,Trachea,0
+61,Oesophagus,0
+61,Great Vessels,117.76
+61,Rib,0
+61,Chin,0
+61,Spine Tracking Volume,201.87
+61,Real Skin,0
+61,Skin,39913.06
+61,Lung L,0
+61,Lung R,39905.59
+61,Spinal Canal,0
+61,Heart,0
+61,[PTV] Shell 1,1261.71
+61,[PTV] Shell 2,0
+61,[PTV] Shell 3,0
+61,[PTV] Shell 4,0
+62,GTV expi,2837.45
+62,GTV inspi,2368.28
+62,CTV pet,2424.35
+62,CTV combi,7551.57
+62,PTV,14260.14
+62,Trachea,0
+62,Oesophagus,0
+62,Great Vessels,99.07
+62,Rib,0
+62,Chin,0
+62,Spine Tracking Volume,153.27
+62,Real Skin,0
+62,Skin,38750.42
+62,Lung L,0
+62,Lung R,38744.81
+62,Spinal Canal,0
+62,Heart,0
+62,[PTV] Shell 1,1067.31
+62,[PTV] Shell 2,0
+62,[PTV] Shell 3,0
+62,[PTV] Shell 4,0
+63,GTV expi,2837.45
+63,GTV inspi,2368.28
+63,CTV pet,2424.35
+63,CTV combi,7551.57
+63,PTV,14228.36
+63,Trachea,0
+63,Oesophagus,0
+63,Great Vessels,76.64
+63,Rib,0
+63,Chin,0
+63,Spine Tracking Volume,114.02
+63,Real Skin,0
+63,Skin,37475.62
+63,Lung L,0
+63,Lung R,37475.62
+63,Spinal Canal,0
+63,Heart,0
+63,[PTV] Shell 1,871.05
+63,[PTV] Shell 2,0
+63,[PTV] Shell 3,0
+63,[PTV] Shell 4,0
+64,GTV expi,2837.45
+64,GTV inspi,2368.28
+64,CTV pet,2424.35
+64,CTV combi,7551.57
+64,PTV,14198.46
+64,Trachea,0
+64,Oesophagus,0
+64,Great Vessels,67.29
+64,Rib,0
+64,Chin,0
+64,Spine Tracking Volume,74.77
+64,Real Skin,0
+64,Skin,36367.19
+64,Lung L,0
+64,Lung R,36367.19
+64,Spinal Canal,0
+64,Heart,0
+64,[PTV] Shell 1,719.64
+64,[PTV] Shell 2,0
+64,[PTV] Shell 3,0
+64,[PTV] Shell 4,0
+65,GTV expi,2837.45
+65,GTV inspi,2368.28
+65,CTV pet,2424.35
+65,CTV combi,7547.84
+65,PTV,14157.33
+65,Trachea,0
+65,Oesophagus,0
+65,Great Vessels,46.73
+65,Rib,0
+65,Chin,0
+65,Spine Tracking Volume,52.34
+65,Real Skin,0
+65,Skin,35142.86
+65,Lung L,0
+65,Lung R,35142.86
+65,Spinal Canal,0
+65,Heart,0
+65,[PTV] Shell 1,573.84
+65,[PTV] Shell 2,0
+65,[PTV] Shell 3,0
+65,[PTV] Shell 4,0
+66,GTV expi,2837.45
+66,GTV inspi,2368.28
+66,CTV pet,2424.35
+66,CTV combi,7542.23
+66,PTV,14101.26
+66,Trachea,0
+66,Oesophagus,0
+66,Great Vessels,33.65
+66,Rib,0
+66,Chin,0
+66,Spine Tracking Volume,22.43
+66,Real Skin,0
+66,Skin,34004.52
+66,Lung L,0
+66,Lung R,34004.52
+66,Spinal Canal,0
+66,Heart,0
+66,[PTV] Shell 1,444.87
+66,[PTV] Shell 2,0
+66,[PTV] Shell 3,0
+66,[PTV] Shell 4,0
+67,GTV expi,2837.45
+67,GTV inspi,2368.28
+67,CTV pet,2424.35
+67,CTV combi,7536.62
+67,PTV,14041.44
+67,Trachea,0
+67,Oesophagus,0
+67,Great Vessels,26.17
+67,Rib,0
+67,Chin,0
+67,Spine Tracking Volume,13.08
+67,Real Skin,0
+67,Skin,32914.77
+67,Lung L,0
+67,Lung R,32914.77
+67,Spinal Canal,0
+67,Heart,0
+67,[PTV] Shell 1,332.72
+67,[PTV] Shell 2,0
+67,[PTV] Shell 3,0
+67,[PTV] Shell 4,0
+68,GTV expi,2837.45
+68,GTV inspi,2368.28
+68,CTV pet,2424.35
+68,CTV combi,7516.06
+68,PTV,13981.63
+68,Trachea,0
+68,Oesophagus,0
+68,Great Vessels,16.82
+68,Rib,0
+68,Chin,0
+68,Spine Tracking Volume,1.87
+68,Real Skin,0
+68,Skin,31813.81
+68,Lung L,0
+68,Lung R,31813.81
+68,Spinal Canal,0
+68,Heart,0
+68,[PTV] Shell 1,239.26
+68,[PTV] Shell 2,0
+68,[PTV] Shell 3,0
+68,[PTV] Shell 4,0
+69,GTV expi,2837.45
+69,GTV inspi,2368.28
+69,CTV pet,2424.35
+69,CTV combi,7493.63
+69,PTV,13910.60
+69,Trachea,0
+69,Oesophagus,0
+69,Great Vessels,5.61
+69,Rib,0
+69,Chin,0
+69,Spine Tracking Volume,0
+69,Real Skin,0
+69,Skin,30815.66
+69,Lung L,0
+69,Lung R,30815.66
+69,Spinal Canal,0
+69,Heart,0
+69,[PTV] Shell 1,183.18
+69,[PTV] Shell 2,0
+69,[PTV] Shell 3,0
+69,[PTV] Shell 4,0
+70,GTV expi,2837.45
+70,GTV inspi,2368.28
+70,CTV pet,2424.35
+70,CTV combi,7463.72
+70,PTV,13828.35
+70,Trachea,0
+70,Oesophagus,0
+70,Great Vessels,1.87
+70,Rib,0
+70,Chin,0
+70,Spine Tracking Volume,0
+70,Real Skin,0
+70,Skin,29862.37
+70,Lung L,0
+70,Lung R,29862.37
+70,Spinal Canal,0
+70,Heart,0
+70,[PTV] Shell 1,138.32
+70,[PTV] Shell 2,0
+70,[PTV] Shell 3,0
+70,[PTV] Shell 4,0
+71,GTV expi,2837.45
+71,GTV inspi,2368.28
+71,CTV pet,2424.35
+71,CTV combi,7426.34
+71,PTV,13747.98
+71,Trachea,0
+71,Oesophagus,0
+71,Great Vessels,0
+71,Rib,0
+71,Chin,0
+71,Spine Tracking Volume,0
+71,Real Skin,0
+71,Skin,28761.41
+71,Lung L,0
+71,Lung R,28761.41
+71,Spinal Canal,0
+71,Heart,0
+71,[PTV] Shell 1,97.20
+71,[PTV] Shell 2,0
+71,[PTV] Shell 3,0
+71,[PTV] Shell 4,0
+72,GTV expi,2837.45
+72,GTV inspi,2368.28
+72,CTV pet,2424.35
+72,CTV combi,7388.95
+72,PTV,13667.60
+72,Trachea,0
+72,Oesophagus,0
+72,Great Vessels,0
+72,Rib,0
+72,Chin,0
+72,Spine Tracking Volume,0
+72,Real Skin,0
+72,Skin,27677.27
+72,Lung L,0
+72,Lung R,27677.27
+72,Spinal Canal,0
+72,Heart,0
+72,[PTV] Shell 1,71.03
+72,[PTV] Shell 2,0
+72,[PTV] Shell 3,0
+72,[PTV] Shell 4,0
+73,GTV expi,2837.45
+73,GTV inspi,2364.54
+73,CTV pet,2424.35
+73,CTV combi,7338.49
+73,PTV,13592.83
+73,Trachea,0
+73,Oesophagus,0
+73,Great Vessels,0
+73,Rib,0
+73,Chin,0
+73,Spine Tracking Volume,0
+73,Real Skin,0
+73,Skin,26604.35
+73,Lung L,0
+73,Lung R,26604.35
+73,Spinal Canal,0
+73,Heart,0
+73,[PTV] Shell 1,48.60
+73,[PTV] Shell 2,0
+73,[PTV] Shell 3,0
+73,[PTV] Shell 4,0
+74,GTV expi,2837.45
+74,GTV inspi,2362.67
+74,CTV pet,2424.35
+74,CTV combi,7286.15
+74,PTV,13508.72
+74,Trachea,0
+74,Oesophagus,0
+74,Great Vessels,0
+74,Rib,0
+74,Chin,0
+74,Spine Tracking Volume,0
+74,Real Skin,0
+74,Skin,25608.06
+74,Lung L,0
+74,Lung R,25608.06
+74,Spinal Canal,0
+74,Heart,0
+74,[PTV] Shell 1,24.30
+74,[PTV] Shell 2,0
+74,[PTV] Shell 3,0
+74,[PTV] Shell 4,0
+75,GTV expi,2837.45
+75,GTV inspi,2358.93
+75,CTV pet,2424.35
+75,CTV combi,7233.81
+75,PTV,13411.52
+75,Trachea,0
+75,Oesophagus,0
+75,Great Vessels,0
+75,Rib,0
+75,Chin,0
+75,Spine Tracking Volume,0
+75,Real Skin,0
+75,Skin,24583.74
+75,Lung L,0
+75,Lung R,24583.74
+75,Spinal Canal,0
+75,Heart,0
+75,[PTV] Shell 1,7.48
+75,[PTV] Shell 2,0
+75,[PTV] Shell 3,0
+75,[PTV] Shell 4,0
+76,GTV expi,2837.45
+76,GTV inspi,2351.46
+76,CTV pet,2424.35
+76,CTV combi,7162.78
+76,PTV,13297.50
+76,Trachea,0
+76,Oesophagus,0
+76,Great Vessels,0
+76,Rib,0
+76,Chin,0
+76,Spine Tracking Volume,0
+76,Real Skin,0
+76,Skin,23647.27
+76,Lung L,0
+76,Lung R,23647.27
+76,Spinal Canal,0
+76,Heart,0
+76,[PTV] Shell 1,0
+76,[PTV] Shell 2,0
+76,[PTV] Shell 3,0
+76,[PTV] Shell 4,0
+77,GTV expi,2837.45
+77,GTV inspi,2342.11
+77,CTV pet,2424.35
+77,CTV combi,7102.97
+77,PTV,13192.83
+77,Trachea,0
+77,Oesophagus,0
+77,Great Vessels,0
+77,Rib,0
+77,Chin,0
+77,Spine Tracking Volume,0
+77,Real Skin,0
+77,Skin,22710.80
+77,Lung L,0
+77,Lung R,22710.80
+77,Spinal Canal,0
+77,Heart,0
+77,[PTV] Shell 1,0
+77,[PTV] Shell 2,0
+77,[PTV] Shell 3,0
+77,[PTV] Shell 4,0
+78,GTV expi,2837.45
+78,GTV inspi,2323.42
+78,CTV pet,2424.35
+78,CTV combi,7037.54
+78,PTV,13050.77
+78,Trachea,0
+78,Oesophagus,0
+78,Great Vessels,0
+78,Rib,0
+78,Chin,0
+78,Spine Tracking Volume,0
+78,Real Skin,0
+78,Skin,21703.30
+78,Lung L,0
+78,Lung R,21703.30
+78,Spinal Canal,0
+78,Heart,0
+78,[PTV] Shell 1,0
+78,[PTV] Shell 2,0
+78,[PTV] Shell 3,0
+78,[PTV] Shell 4,0
+79,GTV expi,2837.45
+79,GTV inspi,2299.12
+79,CTV pet,2424.35
+79,CTV combi,6968.38
+79,PTV,12918.05
+79,Trachea,0
+79,Oesophagus,0
+79,Great Vessels,0
+79,Rib,0
+79,Chin,0
+79,Spine Tracking Volume,0
+79,Real Skin,0
+79,Skin,20695.80
+79,Lung L,0
+79,Lung R,20695.80
+79,Spinal Canal,0
+79,Heart,0
+79,[PTV] Shell 1,0
+79,[PTV] Shell 2,0
+79,[PTV] Shell 3,0
+79,[PTV] Shell 4,0
+80,GTV expi,2831.84
+80,GTV inspi,2267.34
+80,CTV pet,2424.35
+80,CTV combi,6863.71
+80,PTV,12734.87
+80,Trachea,0
+80,Oesophagus,0
+80,Great Vessels,0
+80,Rib,0
+80,Chin,0
+80,Spine Tracking Volume,0
+80,Real Skin,0
+80,Skin,19697.65
+80,Lung L,0
+80,Lung R,19697.65
+80,Spinal Canal,0
+80,Heart,0
+80,[PTV] Shell 1,0
+80,[PTV] Shell 2,0
+80,[PTV] Shell 3,0
+80,[PTV] Shell 4,0
+81,GTV expi,2815.02
+81,GTV inspi,2235.57
+81,CTV pet,2424.35
+81,CTV combi,6764.64
+81,PTV,12536.74
+81,Trachea,0
+81,Oesophagus,0
+81,Great Vessels,0
+81,Rib,0
+81,Chin,0
+81,Spine Tracking Volume,0
+81,Real Skin,0
+81,Skin,18619.12
+81,Lung L,0
+81,Lung R,18619.12
+81,Spinal Canal,0
+81,Heart,0
+81,[PTV] Shell 1,0
+81,[PTV] Shell 2,0
+81,[PTV] Shell 3,0
+81,[PTV] Shell 4,0
+82,GTV expi,2764.55
+82,GTV inspi,2170.14
+82,CTV pet,2424.35
+82,CTV combi,6637.54
+82,PTV,12282.52
+82,Trachea,0
+82,Oesophagus,0
+82,Great Vessels,0
+82,Rib,0
+82,Chin,0
+82,Spine Tracking Volume,0
+82,Real Skin,0
+82,Skin,17570.50
+82,Lung L,0
+82,Lung R,17570.50
+82,Spinal Canal,0
+82,Heart,0
+82,[PTV] Shell 1,0
+82,[PTV] Shell 2,0
+82,[PTV] Shell 3,0
+82,[PTV] Shell 4,0
+83,GTV expi,2691.65
+83,GTV inspi,2106.59
+83,CTV pet,2420.62
+83,CTV combi,6456.22
+83,PTV,11936.72
+83,Trachea,0
+83,Oesophagus,0
+83,Great Vessels,0
+83,Rib,0
+83,Chin,0
+83,Spine Tracking Volume,0
+83,Real Skin,0
+83,Skin,16501.31
+83,Lung L,0
+83,Lung R,16501.31
+83,Spinal Canal,0
+83,Heart,0
+83,[PTV] Shell 1,0
+83,[PTV] Shell 2,0
+83,[PTV] Shell 3,0
+83,[PTV] Shell 4,0
+84,GTV expi,2566.41
+84,GTV inspi,1983.22
+84,CTV pet,2413.14
+84,CTV combi,6188.93
+84,PTV,11437.64
+84,Trachea,0
+84,Oesophagus,0
+84,Great Vessels,0
+84,Rib,0
+84,Chin,0
+84,Spine Tracking Volume,0
+84,Real Skin,0
+84,Skin,15321.85
+84,Lung L,0
+84,Lung R,15321.85
+84,Spinal Canal,0
+84,Heart,0
+84,[PTV] Shell 1,0
+84,[PTV] Shell 2,0
+84,[PTV] Shell 3,0
+84,[PTV] Shell 4,0
+85,GTV expi,2474.82
+85,GTV inspi,1904.72
+85,CTV pet,2388.84
+85,CTV combi,5979.58
+85,PTV,10979.69
+85,Trachea,0
+85,Oesophagus,0
+85,Great Vessels,0
+85,Rib,0
+85,Chin,0
+85,Spine Tracking Volume,0
+85,Real Skin,0
+85,Skin,14207.80
+85,Lung L,0
+85,Lung R,14207.80
+85,Spinal Canal,0
+85,Heart,0
+85,[PTV] Shell 1,0
+85,[PTV] Shell 2,0
+85,[PTV] Shell 3,0
+85,[PTV] Shell 4,0
+86,GTV expi,2340.24
+86,GTV inspi,1786.96
+86,CTV pet,2343.98
+86,CTV combi,5671.16
+86,PTV,10370.33
+86,Trachea,0
+86,Oesophagus,0
+86,Great Vessels,0
+86,Rib,0
+86,Chin,0
+86,Spine Tracking Volume,0
+86,Real Skin,0
+86,Skin,13086.28
+86,Lung L,0
+86,Lung R,13086.28
+86,Spinal Canal,0
+86,Heart,0
+86,[PTV] Shell 1,0
+86,[PTV] Shell 2,0
+86,[PTV] Shell 3,0
+86,[PTV] Shell 4,0
+87,GTV expi,2192.57
+87,GTV inspi,1674.80
+87,CTV pet,2282.30
+87,CTV combi,5316.01
+87,PTV,9691.81
+87,Trachea,0
+87,Oesophagus,0
+87,Great Vessels,0
+87,Rib,0
+87,Chin,0
+87,Spine Tracking Volume,0
+87,Real Skin,0
+87,Skin,11852.61
+87,Lung L,0
+87,Lung R,11852.61
+87,Spinal Canal,0
+87,Heart,0
+87,[PTV] Shell 1,0
+87,[PTV] Shell 2,0
+87,[PTV] Shell 3,0
+87,[PTV] Shell 4,0
+88,GTV expi,2028.08
+88,GTV inspi,1529.01
+88,CTV pet,2188.84
+88,CTV combi,4901.05
+88,PTV,8893.66
+88,Trachea,0
+88,Oesophagus,0
+88,Great Vessels,0
+88,Rib,0
+88,Chin,0
+88,Spine Tracking Volume,0
+88,Real Skin,0
+88,Skin,10598.37
+88,Lung L,0
+88,Lung R,10598.37
+88,Spinal Canal,0
+88,Heart,0
+88,[PTV] Shell 1,0
+88,[PTV] Shell 2,0
+88,[PTV] Shell 3,0
+88,[PTV] Shell 4,0
+89,GTV expi,1854.25
+89,GTV inspi,1400.03
+89,CTV pet,2037.43
+89,CTV combi,4480.48
+89,PTV,8022.61
+89,Trachea,0
+89,Oesophagus,0
+89,Great Vessels,0
+89,Rib,0
+89,Chin,0
+89,Spine Tracking Volume,0
+89,Real Skin,0
+89,Skin,9314.23
+89,Lung L,0
+89,Lung R,9314.23
+89,Spinal Canal,0
+89,Heart,0
+89,[PTV] Shell 1,0
+89,[PTV] Shell 2,0
+89,[PTV] Shell 3,0
+89,[PTV] Shell 4,0
+90,GTV expi,1665.46
+90,GTV inspi,1246.76
+90,CTV pet,1850.51
+90,CTV combi,4000.09
+90,PTV,7065.58
+90,Trachea,0
+90,Oesophagus,0
+90,Great Vessels,0
+90,Rib,0
+90,Chin,0
+90,Spine Tracking Volume,0
+90,Real Skin,0
+90,Skin,8020.74
+90,Lung L,0
+90,Lung R,8020.74
+90,Spinal Canal,0
+90,Heart,0
+90,[PTV] Shell 1,0
+90,[PTV] Shell 2,0
+90,[PTV] Shell 3,0
+90,[PTV] Shell 4,0
+91,GTV expi,1439.29
+91,GTV inspi,1069.18
+91,CTV pet,1643.03
+91,CTV combi,3446.81
+91,PTV,6045.00
+91,Trachea,0
+91,Oesophagus,0
+91,Great Vessels,0
+91,Rib,0
+91,Chin,0
+91,Spine Tracking Volume,0
+91,Real Skin,0
+91,Skin,6744.08
+91,Lung L,0
+91,Lung R,6744.08
+91,Spinal Canal,0
+91,Heart,0
+91,[PTV] Shell 1,0
+91,[PTV] Shell 2,0
+91,[PTV] Shell 3,0
+91,[PTV] Shell 4,0
+92,GTV expi,1205.64
+92,GTV inspi,871.05
+92,CTV pet,1396.29
+92,CTV combi,2925.30
+92,PTV,5020.68
+92,Trachea,0
+92,Oesophagus,0
+92,Great Vessels,0
+92,Rib,0
+92,Chin,0
+92,Spine Tracking Volume,0
+92,Real Skin,0
+92,Skin,5480.50
+92,Lung L,0
+92,Lung R,5480.50
+92,Spinal Canal,0
+92,Heart,0
+92,[PTV] Shell 1,0
+92,[PTV] Shell 2,0
+92,[PTV] Shell 3,0
+92,[PTV] Shell 4,0
+93,GTV expi,1014.98
+93,GTV inspi,697.21
+93,CTV pet,1117.78
+93,CTV combi,2400.05
+93,PTV,3979.53
+93,Trachea,0
+93,Oesophagus,0
+93,Great Vessels,0
+93,Rib,0
+93,Chin,0
+93,Spine Tracking Volume,0
+93,Real Skin,0
+93,Skin,4291.69
+93,Lung L,0
+93,Lung R,4291.69
+93,Spinal Canal,0
+93,Heart,0
+93,[PTV] Shell 1,0
+93,[PTV] Shell 2,0
+93,[PTV] Shell 3,0
+93,[PTV] Shell 4,0
+94,GTV expi,792.54
+94,GTV inspi,538.33
+94,CTV pet,854.23
+94,CTV combi,1848.64
+94,PTV,2983.25
+94,Trachea,0
+94,Oesophagus,0
+94,Great Vessels,0
+94,Rib,0
+94,Chin,0
+94,Spine Tracking Volume,0
+94,Real Skin,0
+94,Skin,3170.17
+94,Lung L,0
+94,Lung R,3170.17
+94,Spinal Canal,0
+94,Heart,0
+94,[PTV] Shell 1,0
+94,[PTV] Shell 2,0
+94,[PTV] Shell 3,0
+94,[PTV] Shell 4,0
+95,GTV expi,566.37
+95,GTV inspi,377.58
+95,CTV pet,624.31
+95,CTV combi,1327.13
+95,PTV,2100.98
+95,Trachea,0
+95,Oesophagus,0
+95,Great Vessels,0
+95,Rib,0
+95,Chin,0
+95,Spine Tracking Volume,0
+95,Real Skin,0
+95,Skin,2201.92
+95,Lung L,0
+95,Lung R,2201.92
+95,Spinal Canal,0
+95,Heart,0
+95,[PTV] Shell 1,0
+95,[PTV] Shell 2,0
+95,[PTV] Shell 3,0
+95,[PTV] Shell 4,0
+96,GTV expi,358.89
+96,GTV inspi,229.91
+96,CTV pet,424.31
+96,CTV combi,837.40
+96,PTV,1338.35
+96,Trachea,0
+96,Oesophagus,0
+96,Great Vessels,0
+96,Rib,0
+96,Chin,0
+96,Spine Tracking Volume,0
+96,Real Skin,0
+96,Skin,1388.82
+96,Lung L,0
+96,Lung R,1388.82
+96,Spinal Canal,0
+96,Heart,0
+96,[PTV] Shell 1,0
+96,[PTV] Shell 2,0
+96,[PTV] Shell 3,0
+96,[PTV] Shell 4,0
+97,GTV expi,164.49
+97,GTV inspi,125.24
+97,CTV pet,228.04
+97,CTV combi,411.22
+97,PTV,656.09
+97,Trachea,0
+97,Oesophagus,0
+97,Great Vessels,0
+97,Rib,0
+97,Chin,0
+97,Spine Tracking Volume,0
+97,Real Skin,0
+97,Skin,676.65
+97,Lung L,0
+97,Lung R,676.65
+97,Spinal Canal,0
+97,Heart,0
+97,[PTV] Shell 1,0
+97,[PTV] Shell 2,0
+97,[PTV] Shell 3,0
+97,[PTV] Shell 4,0
+98,GTV expi,59.81
+98,GTV inspi,46.73
+98,CTV pet,106.54
+98,CTV combi,171.97
+98,PTV,284.12
+98,Trachea,0
+98,Oesophagus,0
+98,Great Vessels,0
+98,Rib,0
+98,Chin,0
+98,Spine Tracking Volume,0
+98,Real Skin,0
+98,Skin,284.12
+98,Lung L,0
+98,Lung R,284.12
+98,Spinal Canal,0
+98,Heart,0
+98,[PTV] Shell 1,0
+98,[PTV] Shell 2,0
+98,[PTV] Shell 3,0
+98,[PTV] Shell 4,0
+99,GTV expi,9.35
+99,GTV inspi,9.35
+99,CTV pet,16.82
+99,CTV combi,37.38
+99,PTV,57.95
+99,Trachea,0
+99,Oesophagus,0
+99,Great Vessels,0
+99,Rib,0
+99,Chin,0
+99,Spine Tracking Volume,0
+99,Real Skin,0
+99,Skin,57.95
+99,Lung L,0
+99,Lung R,57.95
+99,Spinal Canal,0
+99,Heart,0
+99,[PTV] Shell 1,0
+99,[PTV] Shell 2,0
+99,[PTV] Shell 3,0
+99,[PTV] Shell 4,0
+100,GTV expi,0
+100,GTV inspi,0
+100,CTV pet,0
+100,CTV combi,1.87
+100,PTV,1.87
+100,Trachea,0
+100,Oesophagus,0
+100,Great Vessels,0
+100,Rib,0
+100,Chin,0
+100,Spine Tracking Volume,0
+100,Real Skin,0
+100,Skin,1.87
+100,Lung L,0
+100,Lung R,1.87
+100,Spinal Canal,0
+100,Heart,0
+100,[PTV] Shell 1,0
+100,[PTV] Shell 2,0
+100,[PTV] Shell 3,0
+100,[PTV] Shell 4,0
+
